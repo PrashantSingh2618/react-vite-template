@@ -13,7 +13,8 @@
     "lint": "eslint --ext .js,.cjs,.ts,.tsx .",
     "lint:fix": "eslint --ext .js,.cjs,.ts,.tsx . --fix",
     "typecheck": "tsc --noEmit",
-    "prettier:check": "yarn format && tsc --noEmit"
+    "prettier:check": "yarn format && tsc --noEmit",
+    "prepare": "husky install"
   },
   "dependencies": {
     "axios": "^1.4.0",
@@ -41,7 +42,7 @@
     "eslint-plugin-prettier": "^4.2.1",
     "eslint-plugin-react": "^7.32.2",
     "eslint-plugin-react-hooks": "^4.6.0",
-    "husky": "^8.0.3",
+    "husky": "^8.0.0",
     "jsdom": "^22.1.0",
     "postcss": "^8.4.24",
     "prettier": "^2.8.8",
