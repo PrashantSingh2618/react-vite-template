@@ -5,8 +5,9 @@
 
 # How to use
 
-- Select the template option  <img width="171" alt="Screenshot 2023-06-25 at 1 19 33 AM" src="https://github.com/PrashantSingh2618/react-vite-template/assets/38156926/744c9088-d9ba-4b4c-a2cb-e1609b57a911">
+- Select the template option <img width="201" alt="Screenshot 2023-06-25 at 1 34 47 AM" src="https://github.com/PrashantSingh2618/react-vite-template/assets/38156926/557e7fb9-d27d-4c0c-9ea0-09eae9d41b6b">
 - Click on Create a new repository
+
 - You are good to go 🚀
 
 
