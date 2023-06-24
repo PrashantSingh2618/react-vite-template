@@ -1,6 +1,41 @@
-## [vite](https://vitejs.dev/) + [React](https://reactjs.org/) + [TypeScript](https://www.typescriptlang.org/) Starter
+# Template with React + Vite + TS + Tailwindcss
 
-This setup includes:
-* [vite](https://vitejs.dev/)
-* [eslint](https://eslint.org/), [typescript-eslint](https://typescript-eslint.io/), [eslint-airbnb-config](https://github.com/airbnb/javascript), [prettier](https://prettier.io/)
-* [react-router v6](https://reactrouter.com/en/main)
+- 🔥 Node Version: >16.14
+- 🎉 Installed dependencies using [Yarn](https://yarnpkg.com/)
+
+# How to use
+
+- Select the template option  <img width="171" alt="Screenshot 2023-06-25 at 1 19 33 AM" src="https://github.com/PrashantSingh2618/react-vite-template/assets/38156926/744c9088-d9ba-4b4c-a2cb-e1609b57a911">
+- Click on Create a new repository
+- You are good to go 🚀
+
+
+### Features
+
+- 🔥 Uses [React 18](https://reactjs.org/)
+- 🎨 Integrated with [Vite 4](https://vitejs.dev/)
+- 🎉 Uses [Typescript](https://www.typescriptlang.org/)
+-  Css using [Tailwind 3](https://tailwindcss.com/)
+- 🛠 Code Formatter with [Prettier](https://prettier.io)
+-  ✏️ Linter with [Eslint](https://eslint.org/docs/latest/use/getting-started)
+- 🦊 Git Hooks using [Husky](https://typicode.github.io/husky/)
+
+### Build Setup
+
+```bash
+# Install Dependencies
+yarn
+
+# Serve with hot reload at localhost:3000
+yarn start
+
+# Build for production
+yarn build
+
+# Run in production environment at localhost:3000
+yarn serve
+
+# Get the build size
+du -hs build
+  
+```
