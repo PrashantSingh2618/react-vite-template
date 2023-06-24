@@ -11,10 +11,10 @@ export type ConfigurationsList = Record<
 
 const configurations: ConfigurationsList = {
   staging: {
-    apiUrl: 'https://nowornever.live/',
+    apiUrl: 'your_base_url', // add your base url for staging
   },
   production: {
-    apiUrl: 'https://nowornever.live/',
+    apiUrl: 'your_base_url', // add your base url for production
   },
 };
 
