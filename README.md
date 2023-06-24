@@ -1,4 +1,4 @@
-# Template with React + Vite + TS + Tailwindcss
+# BoilerPlate Template with React + Vite + TS + Tailwindcss
 
 - 🔥 Node Version: >16.14
 - 🎉 Installed dependencies using [Yarn](https://yarnpkg.com/)
